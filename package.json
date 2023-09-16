@@ -1,4 +1,5 @@
 {
+  
   "name": "papersource",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +46,7 @@
   },
   "devDependencies": {
     "@iconify/react": "^4.1.1",
+    "gh-pages": "^6.0.0",
     "tailwindcss": "^3.3.3"
   }
 }
